@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Inioluwa2003/Frontend-mentor-3-column-card-preview)
+- Live Site URL:(https://inioluwa2003.github.io/Frontend-mentor-3-column-card-preview/)
 
 ## My process
 
