@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/Inioluwa2003/Frontend-mentor-3-column-card-preview)
+- Solution URL:(https://www.frontendmentor.io/solutions/solution-using-using-css-flexbox-T_MEI7lFOC)
 - Live Site URL:(https://inioluwa2003.github.io/Frontend-mentor-3-column-card-preview/)
 
 ## My process
